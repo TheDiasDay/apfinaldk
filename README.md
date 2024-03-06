@@ -27,5 +27,3 @@ The results of the object recognition system demonstrate high precision, recall,
 
 In conclusion, the successful implementation of YOLOv9 for object recognition in football matches represents a significant advancement in the field of sports analytics. By automating the process of identifying key entities within the sports environment, this technology has the potential to revolutionize various applications in sports broadcasting, coaching, and analysis.
 
-For further details, refer to the complete report and code implementation.
-
